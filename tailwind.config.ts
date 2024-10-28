@@ -33,6 +33,9 @@ const config: Config = {
           400: "rgba(133, 142, 173, 1)"
         }
       },
+      fontFamily: {
+        inter: ['var(--font-inter)']
+      }
     },
   },
   plugins: [],
